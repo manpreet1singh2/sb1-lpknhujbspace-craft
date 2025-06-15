@@ -1,7 +1,7 @@
 🚀 Spacecraft Animation – Frontend Space Journey
 A futuristic and animated spacecraft simulation that takes you on a journey through deep space. Built with HTML, CSS, and JavaScript, this project merges elegant design with immersive animation — perfect for portfolios or themed showcases.
 
-🌐 Live Demo: ![Launch the Project ](https://animated-hummingbird-60eacc.netlify.app/)
+🌐 1[Live Demo: Launch the Project ](https://animated-hummingbird-60eacc.netlify.app/)
 
 🖼️ Project Showcase
 
